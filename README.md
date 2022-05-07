@@ -1,4 +1,4 @@
-<p align="center"><a href="https://paddi.ng" target="_blank"><img src="https://via.placeholder.com/400x100.svg" width="400"></a></p>
+<p align="center"><a href="https://paddi.ng" target="_blank"><img src="https://github.com/paddinghq/paddinghq/blob/main/lw_teal_1.png" width="400"></a></p>
 
 
 👋 Hi, Welcome to Padding Technologies LTD, (@paddinghq) 
